@@ -1,2 +1,8 @@
 # tea
 Register an OSS Project
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xc22A1c623c9dD41Dcdf15FCF4BD5B7D8EB1f48b1'
+quorum: 1
